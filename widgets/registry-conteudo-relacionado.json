@@ -1,0 +1,36 @@
+{
+  "pools": {
+    "sua-saude-treino-forca": {
+      "label": "Sua Saúde — Treino de Força",
+      "items": [
+        { "tag": "Mitos & Ciência", "title": "5 Mitos do Treino de Força Derrubados pela Ciência", "desc": "Separamos os mitos mais repetidos sobre treino de força e o que a evidência científica realmente mostra.", "url": "https://painelsaude.com.br/5-mitos-treino-forca-derrubados-pela-ciencia/" },
+        { "tag": "Diretrizes ACSM 2026", "title": "ACSM 2026 vs. Recomendações Passadas: O Que Mudou", "desc": "Comparamos as novas diretrizes do ACSM para 2026 com as recomendações anteriores — o que muda na prática.", "url": "https://painelsaude.com.br/acsm-2026-vs-recomendacoes-passadas-o-que-mudou/" },
+        { "tag": "Diretrizes ACSM 2026", "title": "Guia de Bolso: Diretrizes ACSM 2026 para Educação Física", "desc": "Um resumo direto das diretrizes ACSM 2026 para quem trabalha com prescrição de exercício.", "url": "https://painelsaude.com.br/guia-bolso-educacao-fisica-diretrizes-acsm-2026/" },
+        { "tag": "Avaliação", "title": "Dominando o 1RM: Teste Seguro e Personalização", "desc": "Como testar 1RM com segurança e adaptar a carga ao seu nível de treino.", "url": "https://painelsaude.com.br/dominando-1rm-teste-seguro-personalizacao/" },
+        { "tag": "Programa de Treino", "title": "Montando um Programa de Treino de Força em 2026", "desc": "Passo a passo para montar um programa de treino de força consistente com as diretrizes atuais.", "url": "https://painelsaude.com.br/montando-programa-treino-forca-2026/" },
+        { "tag": "Progressão", "title": "Guia de Progressão de Carga no Treino de Força", "desc": "Como progredir a carga de treino sem estagnar e sem se machucar.", "url": "https://painelsaude.com.br/guia-progressao-carga-treino-forca/" },
+        { "tag": "Progressão", "title": "Overtraining: Como Aumentar a Carga Sem Se Lesionar", "desc": "Os sinais de overtraining e como aumentar a carga de forma segura.", "url": "https://painelsaude.com.br/overtraining-progressao-aumentar-carga-sem-lesao/" },
+        { "tag": "Programa de Treino", "title": "Força vs. Hipertrofia: Como Estruturar o Treino", "desc": "Força e hipertrofia pedem estruturas de treino diferentes — entenda as diferenças.", "url": "https://painelsaude.com.br/forca-vs-hipertrofia-estrutura-treino/" },
+        { "tag": "Mitos & Ciência", "title": "A Ciência do Volume no Treino de Força", "desc": "O que a ciência diz sobre volume de treino ideal para ganho de força.", "url": "https://painelsaude.com.br/ciencia-volume-treino-forca/" },
+        { "tag": "Segurança", "title": "Treinar Até a Falha: Quando, Como e os Riscos", "desc": "Quando treinar até a falha faz sentido — e quando é só risco sem benefício.", "url": "https://painelsaude.com.br/treinar-ate-a-falha-quando-como-riscos/" },
+        { "tag": "Segurança", "title": "Peso Livre ou Máquina: Segurança e Eficiência", "desc": "Peso livre ou máquina: o que pesa mais na balança entre segurança e eficiência.", "url": "https://painelsaude.com.br/peso-livre-ou-maquina-seguranca-eficiencia/" },
+        { "tag": "Segurança", "title": "Checklist de Segurança Pré-Treino", "desc": "Uma checklist rápida para reduzir o risco de lesão antes de começar a treinar.", "url": "https://painelsaude.com.br/checklist-seguranca-pre-treino/" },
+        { "tag": "Para Iniciantes", "title": "10 Mandamentos do Treino de Força para Iniciantes", "desc": "Dez princípios essenciais para quem está começando no treino de força.", "url": "https://painelsaude.com.br/10-mandamentos-treino-forca-iniciantes/" },
+        { "tag": "Para Profissionais", "title": "Prescrição de Treino de Força para Profissionais de Saúde", "desc": "Como profissionais de saúde podem prescrever treino de força com segurança.", "url": "https://painelsaude.com.br/prescricao-treino-forca-profissionais-saude/" },
+        { "tag": "Saúde Pública", "title": "Sedentarismo, Risco Cardiovascular e Treino de Força", "desc": "A relação entre sedentarismo, risco cardiovascular e treino de força.", "url": "https://painelsaude.com.br/sedentarismo-risco-cardiovascular-treino-forca/" },
+        { "tag": "Públicos Específicos", "title": "Treino de Força Após os 50 Anos: Guia Completo", "desc": "Guia completo de treino de força para quem tem mais de 50 anos.", "url": "https://painelsaude.com.br/treino-forca-apos-50-anos-guia-completo/" },
+        { "tag": "Saúde Pública", "title": "Exercício e Longevidade: Além da Força", "desc": "Por que o exercício físico impacta a longevidade além do ganho de força.", "url": "https://painelsaude.com.br/exercicio-longevidade-alem-da-forca/" },
+        { "tag": "Saúde Pública", "title": "Treino de Força como Saúde Pública (ACSM 2026)", "desc": "Por que o ACSM 2026 trata o treino de força como questão de saúde pública.", "url": "https://painelsaude.com.br/treino-forca-saude-publica-acsm-2026/" },
+        { "tag": "Avaliação", "title": "Como Avaliar a Qualidade de um Programa de Treino", "desc": "Como avaliar se um programa de treino é, de fato, bem estruturado.", "url": "https://painelsaude.com.br/como-avaliar-qualidade-programa-treino/" }
+      ]
+    },
+    "painel-saude-institucional": {
+      "label": "Painel Saúde Institucional (CEIS + Panorama)",
+      "items": [
+        { "tag": "Indústria", "title": "Complexo Econômico-Industrial da Saúde (CEIS)", "desc": "O que é o CEIS, os 3 blocos que o formam e por que ele é tratado como prioridade de soberania sanitária no Brasil.", "url": "https://painelsaude.com.br/complexo-industrial-da-saude/" },
+        { "tag": "Indicadores", "title": "Indicadores do CEIS", "desc": "Investimentos, déficit comercial e a meta de produção nacional que o próprio governo já reconhece que não vai cumprir em 2026.", "url": "https://painelsaude.com.br/indicadores-ceis/" },
+        { "tag": "Financiamento e Acesso", "title": "Panorama do Sistema de Saúde Brasileiro", "desc": "SUS x saúde suplementar: financiamento, beneficiários, vacinação, cirurgias e o lucro recorde das operadoras em 2025.", "url": "https://painelsaude.com.br/panorama-dos-indicadores-e-numeros-do-sistema-de-saude-brasileiro/" }
+      ]
+    }
+  }
+}
