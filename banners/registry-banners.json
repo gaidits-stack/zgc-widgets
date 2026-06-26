@@ -1,0 +1,47 @@
+{
+  "banners": {
+    "meumapa-validzen": {
+      "gradient": ["#2D2A6E", "#4B3F8F", "#1F8A8C"],
+      "badges": [
+        { "text": "meumapa.validzen.com", "style": "outline" }
+      ],
+      "headline": "Nomeie o que sente. Entenda por quê. Navegue adiante.",
+      "sub": "Autoconhecimento guiado para quem busca sentido em tempos de incerteza. Construa seu mapa emocional e descubra novas rotas para o seu bem-estar — com conteúdos curados e ferramentas de análise emocional personalizadas.",
+      "cta": { "text": "Explorar temas →", "url": "https://meumapa.validzen.com/pt/categorias", "bg": "#ffffff", "color": "#2D2A6E" },
+      "footerWordmark": "validzen. / Meu Mapa"
+    },
+    "endometriose-ebook": {
+      "gradient": ["#161A35", "#1F2547", "#2B2154"],
+      "badges": [
+        { "text": "Publicidade", "style": "outline" },
+        { "text": "E-book", "style": "solid", "bg": "#F2613F", "color": "#ffffff" }
+      ],
+      "headline": "Endometriose: o guia completo para mulheres, parceiros e familiares",
+      "sub": "Mitos e verdades, causas, diagnóstico, opções de tratamento e o lado emocional da endometriose — explicado com clareza para quem vive a condição e para quem está ao lado de alguém que vive. Conteúdo informativo e jornalístico, não substitui acompanhamento médico.",
+      "cta": { "text": "Conhecer o guia →", "url": "https://go.hotmart.com/H92688421P?redirectionUrl=https%3A%2F%2Fendometriose-zw132nk.gamma.site%2F", "bg": "#F2613F", "color": "#ffffff" },
+      "disclaimer": "Conteúdo publicitário. Ao clicar, você será direcionado para a página de vendas do produto, comercializado via Hotmart."
+    },
+    "rejuvenescer-ebook": {
+      "gradient": ["#2F3B2A", "#4C5C3A", "#8A7B4A"],
+      "badges": [
+        { "text": "Publicidade", "style": "outline" },
+        { "text": "E-book", "style": "solid", "bg": "#C9A227", "color": "#2F3B2A" }
+      ],
+      "headline": "Rejuvenescer: um guia prático para uma vida mais saudável e equilibrada",
+      "sub": "Alimentação equilibrada, exercício físico, sono, manejo do estresse, hábitos saudáveis e terapias complementares — orientações práticas e objetivas para cuidar do corpo e da mente em todas as fases da vida.",
+      "cta": { "text": "Conhecer o guia →", "url": "https://chk.eduzz.com/Z0BBXEB70A", "bg": "#C9A227", "color": "#2F3B2A" },
+      "disclaimer": "Conteúdo publicitário. Ao clicar, você será direcionado para a página de vendas do produto, comercializado via Eduzz."
+    },
+    "envelhecimento-saudavel-ebook": {
+      "gradient": ["#173B3F", "#1F5C5E", "#4A8A82"],
+      "badges": [
+        { "text": "Publicidade", "style": "outline" },
+        { "text": "E-book", "style": "solid", "bg": "#E08E45", "color": "#173B3F" }
+      ],
+      "headline": "Envelhecimento Saudável: cuidando da saúde mental e cognitiva",
+      "sub": "Informações e estratégias práticas para idosos e cuidadores apoiarem a saúde mental e cognitiva no dia a dia — pensado para ajudar a reduzir riscos e promover uma vida mais saudável e gratificante.",
+      "cta": { "text": "Conhecer o guia →", "url": "https://chk.eduzz.com/2445736", "bg": "#E08E45", "color": "#173B3F" },
+      "disclaimer": "Conteúdo publicitário. Ao clicar, você será direcionado para a página de vendas do produto, comercializado via Eduzz."
+    }
+  }
+}
